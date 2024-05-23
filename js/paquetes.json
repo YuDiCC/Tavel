@@ -1,0 +1,76 @@
+{
+    "paquetes": [
+      { 
+        "id": "Tapakán",
+        "nombre": "Paquete 1",
+        "recorrido": "Tepakan – Becal",
+        "punto_de_partida": "Calkiní",
+        "lugares_para_comer": [
+          {
+            "nombre": "U Sutbil Ch’Eén Cocina",
+            "ubicacion": "C. 15 104, Centro, 24900 Calkiní, Campeche.",
+            "src_ubicacion": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3740.243560822246!2d-90.05087060000001!3d20.372845200000004!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x85f880e3fdb526a9%3A0x6b3e2429761c10a5!2sC.%2015%20104%2C%20Centro%2C%2024900%20Centro%2C%20Camp.!5e0!3m2!1ses-419!2smx!4v1716479815550!5m2!1ses-419!2smx",
+            "platos": ["Platos del día", "Almuerzos."]
+          },
+          {
+            "nombre": "Los colorines de don Mateo",
+            "ubicacion": "C. 15 104, Centro, 24900 Calkiní, Campeche.",
+            "src_ubicacion": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3740.243560822246!2d-90.05087060000001!3d20.372845200000004!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x85f880e3fdb526a9%3A0x6b3e2429761c10a5!2sC.%2015%20104%2C%20Centro%2C%2024900%20Centro%2C%20Camp.!5e0!3m2!1ses-419!2smx!4v1716479815550!5m2!1ses-419!2smx",
+            "platos": ["Tortas de empanizado", "Tortas de asado"]
+          }
+        ],
+        "lugares_para_hospedarse": [
+          {
+            "nombre": "Hotel La Ceiba",
+            "ubicacion": "C. 24 entre 19 y 23, La Fátima 24904 Calkiní, Campeche.",
+            "src_ubicacion":"https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d1915037.4685902814!2d-91.17558556875004!3d20.370205199999997!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x85f881a019563e17%3A0x7a8a75461bc598a8!2sHotel%20La%20Ceiba!5e0!3m2!1ses-419!2smx!4v1716481022074!5m2!1ses-419!2smx",
+            "precio_por_noche": "550 mxn"
+          },
+          {
+            "nombre": "Hotel Brenda Maria",
+            "ubicacion": "C. 16 89, San Juan, 24900 Calkiní, Campeche.",
+            "src_ubicacion":"https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3740.2656666658236!2d-90.04630250000002!3d20.37193330000001!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x85f880e4ac8bff49%3A0x6976ab062382fab9!2sHotel%20Brenda%20Maria!5e0!3m2!1ses-419!2smx!4v1716481146879!5m2!1ses-419!2smx",
+            "precio": "Aproximado de 300 mxn"
+          }
+        ],
+        "imagen": "img/Lugares/Becal.jpg"
+      },
+
+      {
+        "id": "Hecelchakan",
+        "nombre": "Paquete 2",
+        "recorrido": "Calkiní, Dzitbalché, Hecelchakán",
+        "punto_de_partida": "Calkiní",
+        "lugares_para_comer": [
+          {
+            "nombre": "Restaurante Xkanlol",
+            "ubicacion": "Calle 12 Villa Lucrecia Avenida Principal, Hecelchakán 24810 México",
+            "src_ubicacion": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3746.0055443979845!2d-90.17663139999999!3d20.1338163!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x85f86f8ed802f0c1%3A0xf962e71397a3475c!2sC.%2012%2C%2024810%20Pomuch%2C%20Camp.!5e0!3m2!1ses-419!2smx!4v1716483196624!5m2!1ses-419!2smx",
+            "platos": ["Comida regional yucateca y comida mexicana. Aforo para 100 personas. Facturamos el consumo construida a 2 niveles. Primer nivel ofrece aire acondicionado, segundo nivel es una palapa y tienen estacionamiento."]
+          },
+          {
+            "nombre": "Restaurante Tres Reyes",
+            "ubicacion": "Tramo Pomuch, Campeche-mérida Carretera Federal Km 49+400, 24810 Tenabo, Camp., Campeche 24810 México.",
+            "src_ubicacion": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d59945.95912321667!2d-90.22658892089837!3d20.108063599999994!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x85f86fcd2de2e6d9%3A0x53377eadd00fed26!2sRestaurante%20Tres%20Reyes!5e0!3m2!1ses-419!2smx!4v1716483290039!5m2!1ses-419!2smx",
+            "platos": ["Comida Mexicana, Camarones picantes, pollo y cerdo empanizado."]
+          }
+        ],
+        "lugares_para_hospedarse": [
+          {
+            "nombre": "",
+            "ubicacion": "",
+            "src_ubicacion": "",
+            "precio_por_noche": ""
+          },
+          {
+            "nombre": "",
+            "ubicacion": "",
+            "src_ubicacion": "",
+            "precio": ""
+          }
+        ],
+        "imagen": "img/Lugares/Hecelchakan.jpg"
+      }
+    ]
+  }
+  
