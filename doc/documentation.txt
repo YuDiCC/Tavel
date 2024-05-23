@@ -1,0 +1,37 @@
+Para los paquetes en json
+
+{
+        "id": "",
+        "nombre": "Paquete 2",
+        "recorrido": "",
+        "punto_de_partida": "",
+        "lugares_para_comer": [
+          {
+            "nombre": "",
+            "ubicacion": "",
+            "src_ubicacion": "",
+            "platos": ["Plato 1", "Plato 2"]
+          },
+          {
+            "nombre": "",
+            "ubicacion": "",
+            "src_ubicacion": "",
+            "platos": ["Plato 3", "Plato 4"]
+          }
+        ],
+        "lugares_para_hospedarse": [
+          {
+            "nombre": "",
+            "ubicacion": "",
+            "src_ubicacion": "",
+            "precio_por_noche": ""
+          },
+          {
+            "nombre": "",
+            "ubicacion": "",
+            "src_ubicacion": "",
+            "precio": ""
+          }
+        ],
+        "imagen": "img/Lugares/OtraImagen.jpg"
+      }
