@@ -3,14 +3,14 @@
       "delay": "400ms",
       "nombre": "Isla Arena",
       "lugar": "Calkiní, Campeche, México",
-      "link": "#",
+      "link": "viajes.html",
       "img":"img/Lugares/IslaA.jpg"
     },
     {
         "delay": "500ms",
         "nombre": "Remate",
         "lugar": "Calkiní, Campeche, México",
-        "link": "#",
+        "link": "viajes.html",
         "img":"img/Lugares/Remate.jpg"
       }
   ]
