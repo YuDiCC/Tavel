@@ -3,35 +3,35 @@
       "delay": "400ms",
       "nombre": "Calkiní, Campeche",
       "informacion": "Descubre Calkiní, un tesoro de Campeche donde la historia cobra vida y la naturaleza te sorprende.",
-      "link": "#",
+      "link": "viajes.html",
       "img":"img/Lugares/Calkini.jpg"
     },
     {
         "delay": "500ms",
         "nombre": "Dzitbalché",
         "informacion": "Descubre la tranquilidad de Dzitbalché, un remanso de paz rodeado de naturaleza exuberante.",
-        "link": "#",
+        "link": "viajes.html",
         "img":"img/Lugares/Palacio_Dzibalche.jpg"
       },
       {
         "delay": "600ms",
         "nombre": "Becal",
         "informacion": "Sumérgete en la autenticidad de Becal, famoso por sus sombreros de jipi y su encanto colonial.",
-        "link": "#",
+        "link": "viajes.html",
         "img":"img/Lugares/Becal_sombrero.jpg"
       },
       {
         "delay": "700ms",
         "nombre": "Nunkiní",
         "informacion": " Explora la esencia de Nunkiní, un pueblo lleno de historia y tradición, donde la hospitalidad brilla con fuerza.",
-        "link": "#",
+        "link": "viajes.html",
         "img":"img/Lugares/Nunkini.jpg"
       },
       {
         "delay": "800ms",
         "nombre": "Tepakán",
         "informacion": "Vive la autenticidad de Tepakán, un destino de contrastes donde la naturaleza y la historia se entrelazan en paisajes impresionantes.",
-        "link": "#",
+        "link": "viajes.html",
         "img":"img/Lugares/Tepakan1.jpg"
       }
   ]
